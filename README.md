@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmmaAntiri">
+
+![Portfolio Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=EmmaAntiri)
 You can also reach me on [Linkedin](https://www.linkedin.com/in/eoantiri/) [Twitter](https://twitter.com/EmmaAntiri)
