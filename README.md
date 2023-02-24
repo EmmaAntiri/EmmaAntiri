@@ -19,3 +19,8 @@ Here are some ideas to get you started:
 ![Portfolio Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=EmmaAntiri)
 
 - You can also reach me on [Linkedin](https://www.linkedin.com/in/eoantiri/) [Twitter](https://twitter.com/EmmaAntiri)
+
+<h3 align="left">Connect with me:</h3>  
+<p align="left">  
+<a href="https://twitter.com/emmaantiri" target="blank"><img align="center" src="https://en.wikipedia.org/wiki/File:Twitter-logo.svg" alt="emmaantiri" height="30" width="40" /></a> </p>  
+
